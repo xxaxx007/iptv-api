@@ -45,7 +45,7 @@ jobs:
       - name: Install pipenv
         run: pip install --user pipenv
       - name: Install dependecies
-        run: pipenv --python  && pipenv install --deploy
+        run: pipenv --python 3.12 && pipenv install --deploy
       - name: Install selenium
         if: env.OPEN_DRIVER == 'True'
         run: pipenv install selenium
