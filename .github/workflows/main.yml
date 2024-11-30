@@ -6,9 +6,7 @@ on:
     - cron: '0 10 * * *'
   workflow_dispatch:
     branches:
-      - master
-      - dev
-      - gd
+      - master     
 jobs:
   push:
     runs-on: ubuntu-latest
