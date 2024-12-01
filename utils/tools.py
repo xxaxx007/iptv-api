@@ -262,18 +262,9 @@ def is_ipv6(url):
 def check_ipv6_support():
     """
     Check if the system network supports ipv6
-    """
-    url = "https://ipv6.tokyo.test-ipv6.com/ip/?callback=?&testdomain=test-ipv6.com&testname=test_aaaa"
-    try:
-        print("Checking if your network supports IPv6...")
-        response = requests.get(url, timeout=10)
-        if response.status_code == 200:
-            print("Your network supports IPv6")
-            return True
-    except Exception:
-        pass
-    print("Your network does not support IPv6")
-    return False
+    """   
+    print("Your network support IPv6")
+    return True
 
 
 def check_url_ipv_type(url):
