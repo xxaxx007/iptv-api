@@ -1,8 +1,13 @@
 更新时间,#genre#
-2024-12-06 18:22:40,url
+2024-12-07 06:15:52,url
 💰央视付费频道,#genre#
 央视台球,http://124.230.56.119:55555/udp/239.76.254.58:9000$订阅源
 央视台球,http://124.230.56.27:55555/udp/239.76.254.58:9000$订阅源
+第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+第一剧场,http://58.19.244.92:1111/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+风云足球,http://183.94.146.109:2222/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+风云足球,http://58.19.244.92:1111/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 风云足球,http://1.192.75.145:9901/tsfile/live/1111_1.m3u8$订阅源
 风云足球,http://113.57.109.48:1111/tsfile/live/1042_1.m3u8$订阅源
 风云足球,http://222.169.41.47:9901/tsfile/live/1011_1.m3u8$订阅源
@@ -121,15 +126,15 @@ CCTV-5+,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=990000050
 广东体育,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 广东体育,http://58.252.12.164:8000/udp/239.77.0.112:5146$订阅源
 纬来体育,https://cloud.yumixiu768.com:443/tmp/123.m3u8$订阅源
-纬来体育,http://ku9.fr.to/smt.php?id=videolandsport$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$订阅源
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40$订阅源
 五星体育,http://60.164.128.167:8029/rtp/239.255.29.45:8231$组播源
 五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8$订阅源
 五星体育,http://223.166.234.19:7777/tsfile/live/1030_1.m3u8$订阅源
 五星体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 五星体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IAShttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 五星体育,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3$订阅源-IPv6
-五星体育,http://223.166.234.215:7777/tsfile/live/1030_1.m3u8$订阅源
+五星体育,http://223.166.234.149:7777/tsfile/live/1030_1.m3u8$订阅源
 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty$订阅源
 劲爆体育,https://api.livednow.org/migu/796071336?sign=gAAAAABnJcJqM_HTVabRYY0y1XrkVaxRyUQD0kZEz3VQ3y_m5G88-puxPaYTeeM95vvfLbpAONBNY5IydUY2MsWrBWs4jK885O8HDIs7shB502xQx6f0vQ8TuKxrMXORgONQBsb4X87_7NQJpQ3S8NHmEhlYT7rsDO3yy0U0DjGwpbMiH9AXzspYRIojn1sZlwKdzaQKzsQky9fj4FcWw0muMwKADmu-sQ%3D%3D$订阅源
 劲爆体育,http://1.192.75.145:9901/tsfile/live/1153_1.m3u8$订阅源
