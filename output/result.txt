@@ -1,10 +1,11 @@
 更新时间,#genre#
-2024-12-06 06:15:30,url
+2024-12-06 18:22:40,url
 💰央视付费频道,#genre#
-第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-风云足球,http://183.94.146.109:2222/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-风云足球,http://183.94.146.109:2222/tsfile/live/1017_1.m3u8$订阅源
+央视台球,http://124.230.56.119:55555/udp/239.76.254.58:9000$订阅源
+央视台球,http://124.230.56.27:55555/udp/239.76.254.58:9000$订阅源
+风云足球,http://1.192.75.145:9901/tsfile/live/1111_1.m3u8$订阅源
+风云足球,http://113.57.109.48:1111/tsfile/live/1042_1.m3u8$订阅源
+风云足球,http://222.169.41.47:9901/tsfile/live/1011_1.m3u8$订阅源
 世界地理,http://60.7.56.33:4000/udp/239.253.92.113:8066$订阅源
 世界地理,http://60.7.56.33:4000/udp/239.253.92.131:6113$订阅源
 世界地理,https://pi.0472.org/live/sjdl.m3u8?token=162210$订阅源
@@ -36,6 +37,7 @@
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$订阅源
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源
 凤凰卫视,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixtv_hd$订阅源
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
 星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193$组播源
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193$订阅源
 星空卫视,http://wouu.net:9977/udp/239.93.1.10:2193$订阅源
@@ -104,7 +106,7 @@ CCTV-5,http://60.7.56.33:4000/rtp/239.253.92.181:6046$组播源
 CCTV-5,http://xeace.cn:8888/rtp/239.93.42.37:5140$组播源
 CCTV-5,http://60.164.128.167:8029/rtp/239.255.29.13:8231$组播源
 CCTV-5,http://123.112.19.67:8012/rtp/239.3.1.173:8001$组播源
-CCTV-5,http://115.60.241.249:2000/rtp/225.1.4.159:1195$组播源
+CCTV-5,http://123.113.189.90:8001/rtp/239.3.1.173:8001$组播源
 CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5+,http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-5+,http://58.48.37.158:1111/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -113,7 +115,7 @@ CCTV-5+,http://60.7.56.33:4000/rtp/239.253.92.82:8013$组播源
 CCTV-5+,http://www.furymax.top:85/rtp/239.254.96.234:9484$组播源
 CCTV-5+,http://www.furymax.top:85/rtp/239.69.1.12:9712$组播源
 CCTV-5+,http://60.164.128.167:8029/rtp/239.255.30.184:8231$组播源
-CCTV-5+,http://tnvcn.com:8012/rtp/239.3.1.130:8004$组播源
+CCTV-5+,http://123.113.189.90:8001/rtp/239.3.1.130:8004$组播源
 CCTV-5+,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000507$订阅源-IPv6
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty$订阅源
 广东体育,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -130,6 +132,7 @@ CCTV-5+,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=990000050
 五星体育,http://223.166.234.215:7777/tsfile/live/1030_1.m3u8$订阅源
 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty$订阅源
 劲爆体育,https://api.livednow.org/migu/796071336?sign=gAAAAABnJcJqM_HTVabRYY0y1XrkVaxRyUQD0kZEz3VQ3y_m5G88-puxPaYTeeM95vvfLbpAONBNY5IydUY2MsWrBWs4jK885O8HDIs7shB502xQx6f0vQ8TuKxrMXORgONQBsb4X87_7NQJpQ3S8NHmEhlYT7rsDO3yy0U0DjGwpbMiH9AXzspYRIojn1sZlwKdzaQKzsQky9fj4FcWw0muMwKADmu-sQ%3D%3D$订阅源
+劲爆体育,http://1.192.75.145:9901/tsfile/live/1153_1.m3u8$订阅源
 劲爆体育,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IAS$订阅源-IPv6
 劲爆体育,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 劲爆体育,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002026/index.m3u8?IASHttpSessionId=$订阅源-IPv6
