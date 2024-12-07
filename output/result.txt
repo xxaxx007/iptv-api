@@ -1,16 +1,10 @@
 更新时间,#genre#
-2024-12-07 06:15:52,url
+2024-12-07 18:21:35,url
 💰央视付费频道,#genre#
-央视台球,http://124.230.56.119:55555/udp/239.76.254.58:9000$订阅源
-央视台球,http://124.230.56.27:55555/udp/239.76.254.58:9000$订阅源
-第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-第一剧场,http://58.19.244.92:1111/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 风云足球,http://183.94.146.109:2222/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-风云足球,http://58.19.244.92:1111/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 风云足球,http://1.192.75.145:9901/tsfile/live/1111_1.m3u8$订阅源
-风云足球,http://113.57.109.48:1111/tsfile/live/1042_1.m3u8$订阅源
 风云足球,http://222.169.41.47:9901/tsfile/live/1011_1.m3u8$订阅源
+风云足球,http://183.94.146.109:2222/tsfile/live/1017_1.m3u8$订阅源
 世界地理,http://60.7.56.33:4000/udp/239.253.92.113:8066$订阅源
 世界地理,http://60.7.56.33:4000/udp/239.253.92.131:6113$订阅源
 世界地理,https://pi.0472.org/live/sjdl.m3u8?token=162210$订阅源
@@ -121,7 +115,7 @@ CCTV-5+,http://www.furymax.top:85/rtp/239.254.96.234:9484$组播源
 CCTV-5+,http://www.furymax.top:85/rtp/239.69.1.12:9712$组播源
 CCTV-5+,http://60.164.128.167:8029/rtp/239.255.30.184:8231$组播源
 CCTV-5+,http://123.113.189.90:8001/rtp/239.3.1.130:8004$组播源
-CCTV-5+,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000507$订阅源-IPv6
+CCTV-5+,http://111.196.129.152:20000/rtp/239.3.1.130:8004$组播源
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty$订阅源
 广东体育,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 广东体育,http://58.252.12.164:8000/udp/239.77.0.112:5146$订阅源
