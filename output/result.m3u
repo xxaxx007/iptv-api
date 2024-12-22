@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2024-12-22 19:22:09" tvg-logo="https://live.fanmingming.com/tv/2024-12-22 19:22:09.png" group-title="🕘️更新时间",2024-12-22 19:22:09
+#EXTINF:-1 tvg-name="2024-12-23 07:25:52" tvg-logo="https://live.fanmingming.com/tv/2024-12-23 07:25:52.png" group-title="🕘️更新时间",2024-12-23 07:25:52
 http://117.90.196.35:6000/rtp/239.49.9.11:6000$江苏电信组播源
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="💰央视付费频道",文化精品
 http://117.90.196.35:6000/rtp/239.49.9.11:6000$江苏电信组播源
