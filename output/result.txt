@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-01-03 19:35:09,http://112.234.21.109:9901/tsfile/live/1031_1.m3u8$订阅源
+2025-01-04 07:37:37,http://112.234.21.109:9901/tsfile/live/1031_1.m3u8$订阅源
 💰央视付费频道,#genre#
 风云足球,http://112.234.21.109:9901/tsfile/live/1031_1.m3u8$订阅源
 风云足球,http://183.11.239.36:808/hls/133/index.m3u8$订阅源
@@ -189,8 +189,8 @@
 🎬电影频道,#genre#
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2$订阅源-IPv6
 CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$订阅源-IPv6
-CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源
 CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad$订阅源
+CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt$订阅源
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8$订阅源
 CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8$订阅源-IPv6
 CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8$订阅源-IPv6
@@ -211,23 +211,23 @@ CHC高清电影,http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&p
 翡翠台,http://r.jdshipin.com/qrfbg$订阅源
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源
 凤凰中文,http://202.168.187.208:9089/tsfile/live/1009_1.m3u8$订阅源
+凤凰中文,http://61.150.67.62:9901/tsfile/live/1012_1.m3u8$订阅源
+凤凰中文,http://61.150.67.62:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8$订阅源
-凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv$订阅源
-凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?$订阅源
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$订阅源
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8$订阅源
+凤凰资讯,http://61.150.67.62:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+凤凰资讯,http://61.150.67.62:9901/tsfile/live/1013_1.m3u8$订阅源
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?$订阅源
-凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv$订阅源
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport$订阅源
 纬来体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8$订阅源
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8$订阅源
 纬来体育,https://cloud.yumixiu768.com:443/tmp/123.m3u8$订阅源
-经典电影,http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=tvbox6_com&playlive=1&authid=0$订阅源
-经典电影,http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+经典电影,http://222.218.158.141:8181/tsfile/live/1008_1.m3u8$订阅源
+经典电影,http://219.159.194.244:8181/tsfile/live/1008_1.m3u8$订阅源
 经典电影,http://58.19.43.46:9901/tsfile/live/1012_1.m3u8$订阅源
-经典电影,http://183.66.15.146:60901/tsfile/live/0111_2.m3u8$订阅源
 经典电影,http://144.52.160.109:9901/tsfile/live/1075_1.m3u8$订阅源
+经典电影,http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=tvbox6_com&playlive=1&authid=0$订阅源
 NewTV惊悚悬疑,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3$订阅源-IPv6
 NewTV惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$订阅源-IPv6
 NewTV惊悚悬疑,http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3u8$订阅源-IPv6
