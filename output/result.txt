@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-22 07:29:58,http://120.55.49.231:3095/rtp/233.50.201.222:5140
+2025-08-22 19:25:38,http://120.55.49.231:3095/rtp/233.50.201.222:5140
 
 📺央视频道,#genre#
 CCTV-1,http://120.55.49.231:3095/rtp/233.50.201.222:5140
@@ -87,9 +87,9 @@ CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 📡卫视频道,#genre#
 广东卫视,https://www.yangshipin.cn/tv/home?pid=600002485
 广东卫视,http://120.55.49.231:3095/rtp/233.50.200.187:5140
-广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 浙江卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=zhejiang&P2PChannelID=pd://cctv_p2p_zhejiang
@@ -111,9 +111,9 @@ CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 湖南卫视,http://api3.52tb.xyz/info?id=21&token=20230226bgyszp
 北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309
 北京卫视,http://120.55.49.231:3095/rtp/233.50.201.107:5140
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://116.128.242.83:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://61.136.172.236:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://api3.52tb.xyz/info?id=25&token=20230402fxrjwi
 湖北卫视,https://www.yangshipin.cn/tv/home?pid=600002508
 湖北卫视,http://120.55.49.231:3095/rtp/233.50.201.114:5140
@@ -128,10 +128,10 @@ CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 黑龙江卫视,http://api3.52tb.xyz/info?id=41&token=20230226bgyszp
 安徽卫视,https://www.yangshipin.cn/tv/home?pid=600002532
 安徽卫视,http://120.55.49.231:3095/rtp/233.50.201.113:5140
-安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://116.128.242.83:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://49.87.154.246:85/tsfile/live/0130_1.m3u8?key=txiptv
+安徽卫视,http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 重庆卫视,https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,http://120.55.49.231:3095/rtp/233.50.201.143:5140
@@ -144,9 +144,9 @@ CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 东南卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=dongnan&P2PChannelID=pd://cctv_p2p_dongnan
 东南卫视,https://www.yangshipin.cn/tv/home?pid=600002484
 东南卫视,http://120.55.49.231:3095/rtp/233.50.201.146:5140
-东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://116.128.242.83:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://61.136.172.236:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://api3.52tb.xyz/info?id=29&token=20230402fxrjwi
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 广西卫视,https://www.yangshipin.cn/tv/home?pid=600002509
@@ -167,14 +167,14 @@ CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 河南卫视,https://www.yangshipin.cn/tv/home?pid=600002525
 河南卫视,http://42.225.117.174:11199/tsfile/live/0139_1.m3u8?key=txiptv&amp;amp;playlive=1&amp;amp;authid=0
 河南卫视,http://120.55.49.231:3095/rtp/233.50.201.144:5140
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://api3.52tb.xyz/info?id=31&token=20230226bgyszp
 吉林卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=jilin&videoTVChannel=jilin&P2PChannelID=pd://cctv_p2p_hdjilin&tai=jilin&VideoName=jilin&channelID=jilin
 吉林卫视,http://120.55.49.231:3095/rtp/233.50.201.48:5140
-吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://49.87.154.246:85/tsfile/live/0116_1.m3u8?key=txiptv
+吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://api3.52tb.xyz/info?id=40&token=20230227aesvnb
 江苏卫视,https://www.yangshipin.cn/tv/home?pid=600002521
 江苏卫视,http://42.225.117.174:11199/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -200,9 +200,9 @@ CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 青海卫视,http://120.55.49.231:3095/rtp/233.50.201.65:5140
 山东卫视,https://www.yangshipin.cn/tv/home?pid=600002513
 山东卫视,http://120.55.49.231:3095/rtp/233.50.201.105:5140
-山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://116.128.242.83:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://61.136.172.236:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 山西卫视,http://42.225.117.174:11199/tsfile/live/0118_1.m3u8?key=txiptv&amp;amp;playlive=1&amp;amp;authid=0
 山西卫视,http://120.55.49.231:3095/rtp/233.50.201.51:5140
@@ -216,9 +216,9 @@ CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 深圳卫视,https://www.yangshipin.cn/tv/home?pid=600002481
 深圳卫视,http://120.55.49.231:3095/rtp/233.50.201.101:5140
-深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 深圳卫视,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 深圳卫视,http://api3.52tb.xyz/info?id=28&token=20230402fxrjwi
 天津卫视,http://120.55.49.231:3095/rtp/233.50.201.104:5140
 天津卫视,http://116.128.242.83:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -248,11 +248,11 @@ CHC动作电影,http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文,http://120.55.49.231:3095/rtp/233.50.200.191:5140
-凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰资讯,http://218.202.220.2:5000/nn_live.ts?id=FHZX
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰资讯,http://120.55.49.231:3095/rtp/233.50.200.192:5140
 凤凰资讯,http://108.181.20.197/livehttpplay?channel_id=30015
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
